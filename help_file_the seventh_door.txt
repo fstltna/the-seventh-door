@@ -1,0 +1,44 @@
+HELP FILE "THE SEVENTH DOOR":
+
+
+It is recommended that you do not read the content of this file if you have yet to start the game, or if you don't have any particular issue to progress, so that it doesn't spoil the gaming experience.
+
+However, here are some hints to the puzzles found in "The Seventh Door" in case you have trouble solving them.
+
+(For information on the controls, please check the READ_ME file)
+
+___
+
+
+- In the first map, search the areas that stand out in the darkness.
+
+- When investigating the roof as Det. Zikaz, remember that you can use items from your inventory (W key). Using the items in certain areas may yield results.
+
+- During the driving segment, positioning yourself in between lanes on the white lines, and then briefly dodging to either side when a vehicle approaches, will help to increase your chances of avoiding the oncoming traffic.
+
+- During the mini-game in the hotel with the circles when trying to possess the woman, you have to press Z or W to shift to another circle.
+
+- For the stuffed-toys mini-game in the hotel, the order in which the toys should be removed is visible somewhere in the room.
+
+- When you're back at the hotel, as Det. Zikaz, avoid being spotted by the patrolling guards. You can peek out of the doors from inside the rooms before leaving to keep from being detected.
+During the QTE phase, the series of arrows are displayed quickly and repeatedly. You don't need to input the combination upon the first appearance of the series. After a few seconds however, it will be too late.
+
+- As Paloma trying to get into the hotel, search the environment thoroughly. If you're still having trouble, try using Paloma's power (timed presses of the Q key).
+When the power gauge is close to maximum, standing near some characters may allow you to perceive information helpful to your progression.
+
+- As Paloma crawling on the beam, don't wait for the wind to stop (without moving) each time it happens, or else you'll soon be caught by Isaac.
+When the wind blows, you'll have to aim at the respective (left or right) 'wind' area in the gauge (that appears on both sides next to the central area) in order to advance.
+
+- The music box puzzle in the park is entirely optional. However it does not require any knowledge about music theory or the like. Think more about what you don't hear, as opposed to what you do when trying to solve it.
+
+- In the clinic, don't shoot pointlessly. Firing your gun will trigger the alarm. This will make your more vulnerable, and also limit your options on how to progress.
+There is a specific sound effect before the black strands change position, warning you that you have to switch places. Use that clue to do it as soon as possible each time it happens.
+
+- In the round-shaped room at the end of the clinic, be careful about entering any rooms without thinking.
+The goal is to identify the seventh door using the tools at your disposal. Don't try to make the lighting's control panel trip, this is not the purpose.
+
+___
+
+Help file written by sriden.
+For any further requests, contact sriden at sridenslark@yahoo.fr, or on the forum threads dedicated to this game.
+ 
